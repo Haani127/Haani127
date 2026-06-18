@@ -28,8 +28,6 @@ public class MohammedHaani {
     String college     = "Sri Krishna College, Coimbatore";
     String[] interests = {"Software Development", "Java Development",
                           "Web Development", "DSA", "Problem Solving"};
-    String goal        = "Securing a great SDE role through placement";
-    String currentFocus = "Sharpening DSA skills & building impactful projects";
 
     public String getMotivation() {
         return "Code. Learn. Grow. Repeat.";
@@ -41,7 +39,6 @@ public class MohammedHaani {
 - 🧠 Strengthening my foundation in **Data Structures & Algorithms**
 - 🌐 Building full-stack skills through **Web Development** projects
 - ☕ Passionate about writing clean, efficient **Java** code
-- 🤝 Open to collaboration on beginner-to-intermediate level projects
 
 ---
 
